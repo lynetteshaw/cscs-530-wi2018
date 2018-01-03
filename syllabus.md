@@ -4,7 +4,7 @@
 Weiser 747
 
 * **Instructor:** Lynette Shaw
-* **Office Hours:** Weds. 1-3pm
+* **Office Hours:** Weds. 10am-12pm
 * **Office:** Weiser 719
 * **Email:** shawla@umich.edu
 
