@@ -34,7 +34,7 @@ Your course grade will be structured per the following:
 **Netlogo Exercise Set** | 10%
 **Python Exercise Set** | 10%
 **Project Brainstorm and Lit Review** | 10%
-**5 Min. In-Class Brainstorm **| 5%
+**5 Min. In-Class Brainstorm**| 5%
 **Project Proposal** | 20%
 **Final Project** | 35%
 
