@@ -28,7 +28,7 @@ The other big portion of our class time will be spent discussing and unpacking t
 
 Your course grade will be structured per the following:
 
-** Assignment ** | ** Percent of Course Grade**
+**Assignment** | **Percent of Course Grade**
 ---------------------- | -----------------------------------
 **Class Participation and Discussion** | 10%
 **Netlogo Exercise Set** | 10%
