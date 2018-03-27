@@ -26,6 +26,7 @@
 3. Harrison Smith 
 4. Kristefer Stojanovski 
 
+&nbsp;
 
 **Thursday, April, 5**
 
@@ -34,6 +35,7 @@
 3. 
 4. 
 
+&nbsp;
 
 **Tuesday, April, 10**
 
@@ -42,12 +44,16 @@
 3. Joe Brenner
 4. Lixi Liu
 
+&nbsp;
+
 **Thursday, April, 12**
 
 1. Nicholas Medina
 2. John Meluso
 3. Karthick Krishnan
 4. 
+
+&nbsp;
 
 **Tuesday, April, 17**
 
