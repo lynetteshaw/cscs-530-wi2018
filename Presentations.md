@@ -22,9 +22,9 @@
 **Tuesday, April, 3**
 
 1. Michael Borsellino 
-2. Mana Heshmati 
+2. Kristefer Stojanovski
 3. Harrison Smith 
-4. Kristefer Stojanovski 
+4.  
 
 &nbsp;
 
@@ -32,7 +32,7 @@
 
 1. Iris Rivera
 2. Ali Turfah 
-3. 
+3. Mana Heshmati 
 4. 
 
 &nbsp;
@@ -59,5 +59,5 @@
 
 1. Yingying Zeng
 2. Divyanish Saini
-3. 
+3. Matt Nelson
 4. 
