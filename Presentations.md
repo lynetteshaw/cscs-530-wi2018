@@ -20,20 +20,38 @@
 
 
 **Tuesday, April, 3**
-TBD
+
+1. Michael Borsellino 
+2. Mana Heshmati 
+3. Harrison Smith 
+4. Kristefer Stojanovski 
 
 
 **Thursday, April, 5**
-TBD
+
+1. Iris Rivera
+2. Ali Turfah 
+3. 
+4. 
 
 
 **Tuesday, April, 10**
-TBD
 
+1. Todd Lehman
+2. Meira Chefitz
+3. Joe Brenner
+4. Lixi Liu
 
 **Thursday, April, 12**
-TBD
 
+1. Nicholas Medina
+2. John Meluso
+3. Karthick Krishnan
+4. 
 
 **Tuesday, April, 17**
-TBD
+
+1. Yingying Zeng
+2. Divyanish Saini
+3. 
+4. 
