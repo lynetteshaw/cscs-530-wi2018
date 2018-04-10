@@ -1,6 +1,7 @@
 # Final Writeup
 
-### Due Thursday, April 24, 2018 (submitted through Canvas -- may use GitHub for model related files if easier)
+### Due Thursday, April 24, 2018 
+#### Submitted through Canvas -- may use GitHub for model related files if easier
 
 &nbsp; 
 
