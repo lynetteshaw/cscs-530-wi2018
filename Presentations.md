@@ -39,10 +39,10 @@
 
 **Tuesday, April, 10**
 
-1. Todd Lehman
+1. Lixi Liu
 2. Meira Chefitz
 3. Joe Brenner
-4. Lixi Liu
+4. 
 
 &nbsp;
 
@@ -51,7 +51,7 @@
 1. Nicholas Medina
 2. John Meluso
 3. Karthick Krishnan
-4. 
+4. Todd Lehman
 
 &nbsp;
 
